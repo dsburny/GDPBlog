@@ -1,6 +1,5 @@
 /cache/*
 /logs/*
-/images/*
 /assets/*
 /backup/*
 .DS_Store
